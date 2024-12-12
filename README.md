@@ -36,8 +36,3 @@ set GOOS=linux
 
 go build
 ```
-
-## QQ 群
-![QQ 群](docs/image/饥荒开服面板交流issue群聊二维码.png)
-
-
